@@ -1,1 +1,7 @@
 # ARKServerChat
+
+## Установка
+
+```
+npm ci
+```
